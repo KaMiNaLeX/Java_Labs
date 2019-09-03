@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Shturmovik>
+    <Name>PS-300</Name>
+    <salary>1400</salary>
+    <level>Hard</level>
+    <timenaliota>500</timenaliota>
+    <oil>dizel</oil>
+    <AircraftOfMonth>WOM</AircraftOfMonth>
+</Shturmovik>

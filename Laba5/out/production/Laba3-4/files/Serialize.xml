@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="10" class="java.beans.XMLDecoder">
+ <object class="by.basil.one.Shturmovik" id="Shturmovik0">
+  <void class="by.basil.one.Military" method="getField">
+   <string>salary</string>
+   <void method="set">
+    <object idref="Shturmovik0"/>
+    <int>1400</int>
+   </void>
+  </void>
+  <void class="by.basil.one.Military" method="getField">
+   <string>timenaliota</string>
+   <void method="set">
+    <object idref="Shturmovik0"/>
+    <int>500</int>
+   </void>
+  </void>
+  <void class="by.basil.one.Military" method="getField">
+   <string>level</string>
+   <void method="set">
+    <object idref="Shturmovik0"/>
+    <string>Hard</string>
+   </void>
+  </void>
+  <void class="by.basil.one.Military" method="getField">
+   <string>oil</string>
+   <void method="set">
+    <object idref="Shturmovik0"/>
+    <string>dizel</string>
+   </void>
+  </void>
+  <void class="by.basil.one.Military" method="getField">
+   <string>Name</string>
+   <void method="set">
+    <object idref="Shturmovik0"/>
+    <string>PS-300</string>
+   </void>
+  </void>
+ </object>
+</java>

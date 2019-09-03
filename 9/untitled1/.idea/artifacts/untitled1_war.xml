@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" build-on-make="true" name="untitled1:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/untitled1_war</output-path>
+    <root id="root">
+      <element id="artifact" artifact-name="untitled1:war exploded" />
+      <element id="archive" name="archive.jar" />
+    </root>
+  </artifact>
+</component>

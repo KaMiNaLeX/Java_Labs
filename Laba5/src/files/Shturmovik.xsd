@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+	<element name="Shturmovik">
+    <complexType>
+        <sequence>
+            <element name="Name" type="string"/>
+            <element name="salary" type="integer"/>
+            <element name="level" type = "string"/>
+            <element name="timenaliota" type="integer"/>
+            <element name="oil" type="string"/>
+            <element name="AircraftOfMonth">
+                <simleType>
+                    <restriction base = "string">
+                        <enumeration value="WOM"/>
+                        <enumeration value="NotWOM"/>
+                    </restriction>
+                </simleType>
+            </element>
+        </sequence>
+    </complexType>
+</element>

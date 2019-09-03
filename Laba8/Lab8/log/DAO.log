@@ -1,0 +1,559 @@
+11.05.2018 12:23:40 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 12:23:40 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Пушкин', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 12:23:40 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 12:23:40 [main] INFO  by.basil.one.Main  - [
+Author{author='Богданович Максим', country='Беларусь'}]
+11.05.2018 12:23:40 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 12:23:40 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Вянок', author='Богданович Максим', released='1914-01-01', publishing_house='Марцін Кухта', id_book=2}, 
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}, 
+Books{ name_of_book='Дети солнца', author='Горький Максим', released='1905-01-01', publishing_house='Московская патриархия', id_book=6}, 
+Books{ name_of_book='ПРЫЙДЗЕ ВЯСНА', author='Богданович Максим', released='1910-01-01', publishing_house='Марцін Кухта', id_book=9}, 
+Books{ name_of_book='РУСАЛКА', author='Богданович Максим', released='1911-01-17', publishing_house='Марцін Кухта', id_book=10}]
+
+11.05.2018 12:23:40 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 12:23:40 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 12:23:40 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 12:23:40 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Вянок', author='Богданович Максим', released='1914-01-01', publishing_house='Марцін Кухта', id_book=2}, 
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}, 
+Books{ name_of_book='Дети солнца', author='Горький Максим', released='1905-01-01', publishing_house='Московская патриархия', id_book=6}, 
+Books{ name_of_book='ПРЫЙДЗЕ ВЯСНА', author='Богданович Максим', released='1910-01-01', publishing_house='Марцін Кухта', id_book=9}, 
+Books{ name_of_book='РУСАЛКА', author='Богданович Максим', released='1911-01-17', publishing_house='Марцін Кухта', id_book=10}]
+
+11.05.2018 14:32:12 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 14:32:12 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Пушкин', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 14:32:12 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 14:32:12 [main] INFO  by.basil.one.Main  - [
+Author{author='Богданович Максим', country='Беларусь'}]
+11.05.2018 14:32:12 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 14:32:12 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Вянок', author='Богданович Максим', released='1914-01-01', publishing_house='Марцін Кухта', id_book=2}, 
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}, 
+Books{ name_of_book='Дети солнца', author='Горький Максим', released='1905-01-01', publishing_house='Московская патриархия', id_book=6}, 
+Books{ name_of_book='ПРЫЙДЗЕ ВЯСНА', author='Богданович Максим', released='1910-01-01', publishing_house='Марцін Кухта', id_book=9}, 
+Books{ name_of_book='РУСАЛКА', author='Богданович Максим', released='1911-01-17', publishing_house='Марцін Кухта', id_book=10}]
+
+11.05.2018 14:32:12 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 14:32:12 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 14:32:12 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 14:32:13 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Вянок', author='Богданович Максим', released='1914-01-01', publishing_house='Марцін Кухта', id_book=2}, 
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}, 
+Books{ name_of_book='Дети солнца', author='Горький Максим', released='1905-01-01', publishing_house='Московская патриархия', id_book=6}, 
+Books{ name_of_book='ПРЫЙДЗЕ ВЯСНА', author='Богданович Максим', released='1910-01-01', publishing_house='Марцін Кухта', id_book=9}, 
+Books{ name_of_book='РУСАЛКА', author='Богданович Максим', released='1911-01-17', publishing_house='Марцін Кухта', id_book=10}]
+
+11.05.2018 16:10:02 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 16:10:02 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Алексей', country='Я'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 16:10:02 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 16:10:02 [main] INFO  by.basil.one.Main  - [
+Author{author='Богданович Максим', country='Беларусь'}]
+11.05.2018 16:10:02 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 16:10:02 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Вянок', author='Богданович Максим', released='1914-01-01', publishing_house='Марцін Кухта', id_book=2}, 
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}, 
+Books{ name_of_book='Дети солнца', author='Горький Максим', released='1905-01-01', publishing_house='Московская патриархия', id_book=6}, 
+Books{ name_of_book='ПРЫЙДЗЕ ВЯСНА', author='Богданович Максим', released='1910-01-01', publishing_house='Марцін Кухта', id_book=9}, 
+Books{ name_of_book='РУСАЛКА', author='Богданович Максим', released='1911-01-17', publishing_house='Марцін Кухта', id_book=10}]
+
+11.05.2018 16:10:02 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 16:10:02 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:10:02 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 16:10:02 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Вянок', author='Богданович Максим', released='1914-01-01', publishing_house='Марцін Кухта', id_book=2}, 
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}, 
+Books{ name_of_book='Дети солнца', author='Горький Максим', released='1905-01-01', publishing_house='Московская патриархия', id_book=6}, 
+Books{ name_of_book='ПРЫЙДЗЕ ВЯСНА', author='Богданович Максим', released='1910-01-01', publishing_house='Марцін Кухта', id_book=9}, 
+Books{ name_of_book='РУСАЛКА', author='Богданович Максим', released='1911-01-17', publishing_house='Марцін Кухта', id_book=10}]
+
+11.05.2018 16:20:04 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 16:20:04 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='qweqwe', country='Россия'}, 
+Author{author='qweqweqwq', country='Россия'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Алексей', country='Я'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 16:20:04 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 16:20:04 [main] INFO  by.basil.one.Main  - [
+Author{author='Богданович Максим', country='Беларусь'}]
+11.05.2018 16:20:04 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 16:20:04 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Вянок', author='Богданович Максим', released='1914-01-01', publishing_house='Марцін Кухта', id_book=2}, 
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}, 
+Books{ name_of_book='Дети солнца', author='Горький Максим', released='1905-01-01', publishing_house='Московская патриархия', id_book=6}, 
+Books{ name_of_book='ПРЫЙДЗЕ ВЯСНА', author='Богданович Максим', released='1910-01-01', publishing_house='Марцін Кухта', id_book=9}, 
+Books{ name_of_book='РУСАЛКА', author='Богданович Максим', released='1911-01-17', publishing_house='Марцін Кухта', id_book=10}]
+
+11.05.2018 16:20:04 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 16:20:04 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:20:04 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 16:20:41 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 16:20:41 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='qweqwe', country='Россия'}, 
+Author{author='qweqweqwq', country='Россия'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Алексей', country='Я'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 16:20:41 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 16:20:41 [main] INFO  by.basil.one.Main  - [
+Author{author='Богданович Максим', country='Беларусь'}]
+11.05.2018 16:20:41 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 16:20:41 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Вянок', author='Богданович Максим', released='1914-01-01', publishing_house='Марцін Кухта', id_book=2}, 
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}, 
+Books{ name_of_book='Дети солнца', author='Горький Максим', released='1905-01-01', publishing_house='Московская патриархия', id_book=6}, 
+Books{ name_of_book='ПРЫЙДЗЕ ВЯСНА', author='Богданович Максим', released='1910-01-01', publishing_house='Марцін Кухта', id_book=9}, 
+Books{ name_of_book='РУСАЛКА', author='Богданович Максим', released='1911-01-17', publishing_house='Марцін Кухта', id_book=10}]
+
+11.05.2018 16:20:41 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 16:20:41 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:20:41 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 16:22:59 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 16:22:59 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='qweqwe', country='Россия'}, 
+Author{author='qweqweqwq', country='Россия'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Алексей', country='Я'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 16:22:59 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 16:22:59 [main] INFO  by.basil.one.Main  - [
+Author{author='Богданович Максим', country='Беларусь'}]
+11.05.2018 16:22:59 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 16:22:59 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Вянок', author='Богданович Максим', released='1914-01-01', publishing_house='Марцін Кухта', id_book=2}, 
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}, 
+Books{ name_of_book='Дети солнца', author='Горький Максим', released='1905-01-01', publishing_house='Московская патриархия', id_book=6}, 
+Books{ name_of_book='ПРЫЙДЗЕ ВЯСНА', author='Богданович Максим', released='1910-01-01', publishing_house='Марцін Кухта', id_book=9}, 
+Books{ name_of_book='РУСАЛКА', author='Богданович Максим', released='1911-01-17', publishing_house='Марцін Кухта', id_book=10}]
+
+11.05.2018 16:22:59 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 16:22:59 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:22:59 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 16:22:59 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Вянок', author='Богданович Максим', released='1914-01-01', publishing_house='Марцін Кухта', id_book=2}, 
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}, 
+Books{ name_of_book='Дети солнца', author='Горький Максим', released='1905-01-01', publishing_house='Московская патриархия', id_book=6}, 
+Books{ name_of_book='ПРЫЙДЗЕ ВЯСНА', author='Богданович Максим', released='1910-01-01', publishing_house='Марцін Кухта', id_book=9}, 
+Books{ name_of_book='РУСАЛКА', author='Богданович Максим', released='1911-01-17', publishing_house='Марцін Кухта', id_book=10}]
+
+11.05.2018 16:23:11 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 16:23:11 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='qweqwe', country='Россия'}, 
+Author{author='qweqweqwq', country='Россия'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Алексей', country='Я'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 16:23:11 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 16:23:11 [main] INFO  by.basil.one.Main  - [
+Author{author='Богданович Максим', country='Беларусь'}]
+11.05.2018 16:23:11 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 16:23:11 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Вянок', author='Богданович Максим', released='1914-01-01', publishing_house='Марцін Кухта', id_book=2}, 
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}, 
+Books{ name_of_book='Дети солнца', author='Горький Максим', released='1905-01-01', publishing_house='Московская патриархия', id_book=6}, 
+Books{ name_of_book='ПРЫЙДЗЕ ВЯСНА', author='Богданович Максим', released='1910-01-01', publishing_house='Марцін Кухта', id_book=9}, 
+Books{ name_of_book='РУСАЛКА', author='Богданович Максим', released='1911-01-17', publishing_house='Марцін Кухта', id_book=10}]
+
+11.05.2018 16:23:11 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 16:23:11 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:23:11 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 16:23:11 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:29:40 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 16:29:40 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='qweqwe', country='Россия'}, 
+Author{author='qweqweqwq', country='Россия'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Алексей', country='Я'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 16:29:40 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 16:29:40 [main] INFO  by.basil.one.Main  - []
+11.05.2018 16:29:40 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 16:29:40 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:29:40 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 16:29:40 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:29:40 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 16:29:40 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:30:02 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 16:30:02 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='qweqwe', country='Россия'}, 
+Author{author='qweqweqwq', country='Россия'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Алексей', country='Я'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 16:30:02 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 16:30:02 [main] INFO  by.basil.one.Main  - []
+11.05.2018 16:30:02 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 16:30:02 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:30:02 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 16:30:02 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:30:02 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 16:30:02 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:32:15 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 16:32:15 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='qweqwe', country='Россия'}, 
+Author{author='qweqweqwq', country='Россия'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Алексей', country='Я'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 16:32:15 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 16:32:15 [main] INFO  by.basil.one.Main  - []
+11.05.2018 16:32:15 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 16:32:15 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:32:15 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 16:32:15 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:32:15 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 16:32:25 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:37:54 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 16:37:54 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='qweqwe', country='Россия'}, 
+Author{author='qweqweqwq', country='Россия'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Алексей', country='Я'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 16:37:54 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 16:37:54 [main] INFO  by.basil.one.Main  - []
+11.05.2018 16:37:54 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 16:37:54 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:37:54 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 16:37:54 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:37:54 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 16:38:34 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 16:38:34 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='qweqwe', country='Россия'}, 
+Author{author='qweqweqwq', country='Россия'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Алексей', country='Я'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 16:38:34 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 16:38:34 [main] INFO  by.basil.one.Main  - []
+11.05.2018 16:38:34 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 16:38:34 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:38:34 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 16:38:34 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:38:34 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 16:39:25 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 16:39:25 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='qweqwe', country='Россия'}, 
+Author{author='qweqweqwq', country='Россия'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Алексей', country='Я'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 16:39:25 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 16:39:25 [main] INFO  by.basil.one.Main  - []
+11.05.2018 16:39:25 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 16:39:25 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:39:25 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 16:39:25 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:39:25 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 16:41:29 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 16:41:29 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='qweqwe', country='Россия'}, 
+Author{author='qweqweqwq', country='Россия'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Алексей', country='Я'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 16:41:29 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 16:41:29 [main] INFO  by.basil.one.Main  - []
+11.05.2018 16:41:29 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 16:41:29 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:41:29 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 16:41:29 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:41:29 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 16:48:17 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 16:48:17 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='qweqwe', country='Россия'}, 
+Author{author='qweqweqwq', country='Россия'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Алексей', country='Я'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 16:48:17 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 16:48:17 [main] INFO  by.basil.one.Main  - []
+11.05.2018 16:48:17 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 16:48:17 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:48:17 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 16:48:17 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:48:17 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 16:48:26 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:53:29 [main] INFO  by.basil.one.Main  - All authors
+
+11.05.2018 16:53:30 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='qweqwe', country='Россия'}, 
+Author{author='qweqweqwq', country='Россия'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Алексей', country='Я'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Лермонтов', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+11.05.2018 16:53:30 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+11.05.2018 16:53:30 [main] INFO  by.basil.one.Main  - []
+11.05.2018 16:53:30 [main] INFO  by.basil.one.Main  - Список всех книг
+11.05.2018 16:53:30 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:53:30 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+11.05.2018 16:53:30 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+11.05.2018 16:53:30 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+11.05.2018 16:53:36 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
